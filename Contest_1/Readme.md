@@ -1,2 +1,2 @@
-Contest 1
-Linear regression
+# Contest 1
+## Linear regression
